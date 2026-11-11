@@ -1,4 +1,4 @@
-import React from 'react'
+import "../styles/Login.scss"
 
 export default function Login() {
  return (
